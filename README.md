@@ -1,4 +1,4 @@
-# Spam Detection using Multinomial Naive Bayes
+# Spam Detection
 This project implements a spam detection model using machine learning techniques, specifically the Multinomial Naive Bayes classifier with TF-IDF Vectorization. The model classifies messages into two categories: Spam and Not Spam (Ham).
 
 The dataset used in this project consists of labeled SMS messages, which are preprocessed and then used to train and evaluate the model.
